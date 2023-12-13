@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/package",
-  "type": "module", 
+  "type": "module",
   "version": "0.0.1",
   "description": "hexlet-test",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RoddyCornet/hexlet-js/issues"
   },
-  "homepage": "https://github.com/RoddyCornet/hexlet-js#readme"
+  "homepage": "https://github.com/RoddyCornet/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
