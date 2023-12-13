@@ -1,8 +1,8 @@
 {
   "name": "@hexlet/package",
-  "type": "modules", 
+  "type": "module", 
   "version": "0.0.1",
-  "description": "Hexlet test package",
+  "description": "hexlet-test",
   "main": "index.js",
   "scripts": {
     "test": "test"
