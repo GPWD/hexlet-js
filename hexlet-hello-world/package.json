@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/package",
+  "type": "modules", 
+  "version": "0.0.1",
+  "description": "Hexlet test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RoddyCornet/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet-test"
+  ],
+  "author": "Georgy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoddyCornet/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/RoddyCornet/hexlet-js#readme"
+}
